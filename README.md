@@ -1,22 +1,17 @@
 # opensource25
+---
+
+# Finding hidden pictures
+---
+### There's nothing like finding a wrong picture when you're bored. 
+### But if we don't find the wrong picture, we may feel bad. 
+### If you use this, you can find the wrong picture right away.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## **key point**
+1. Compare the two images and find the wrong pictures.
+2. In addition to the game of finding the wrong picture, it can be useful when we actually look for different situations from the past (for example, when viewed on CCTV).
 
 
 
